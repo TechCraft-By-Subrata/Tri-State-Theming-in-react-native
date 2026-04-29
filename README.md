@@ -38,5 +38,20 @@ As promised, we learn from real-world applications, not just demos. Experience t
 
 If you find it exciting, I invite you to join our community or follow our social media handles for more such insights.
 
+If you find it exciting, I invite you to join our community or follow our social media handles for more such insights.
+
+### Connect With Us
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TechCraft-By-Subrata)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@techcraftclub)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/cA5fhVT8)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbCz72vFCCoUsMV4K30M)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subraatakumar/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/subraatakumar/)
+
+</div>
+
 ### Who is this for?
 If you are tired of building "playground" projects and want to learn how an **Architect and Tech Lead** structures professional React Native applications, this course is for you. Join the **TechCraft Club** community and start building apps that users—and their devices—will love.
