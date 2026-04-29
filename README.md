@@ -15,6 +15,8 @@ As promised, we learn from real-world applications, not just demos. Experience t
 *   **Android:** [Download on Play Store](https://play.google.com/store/apps/details?id=com.subraatakumar.watertracker)
 *   **iOS:** [Download on App Store](https://apps.apple.com/us/app/water-tracker-n-reminder/id6759248297)
 
+![https://subraatakumar.com/images/appstore-button-download.svg](https://apps.apple.com/us/app/water-tracker-n-reminder/id6759248297)
+
 ---
 
 ### What You Will Learn
