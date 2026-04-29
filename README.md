@@ -12,10 +12,8 @@ In this course, we go beyond "demo apps." We dive into the architecture of **Tri
 ### See it in Action
 As promised, we learn from real-world applications, not just demos. Experience this implementation yourself by downloading the **Water Tracker** app. See firsthand how the theming handles smooth transitions and respects device settings across both platforms:
 
-*   **Android:** [Download on Play Store](https://play.google.com/store/apps/details?id=com.subraatakumar.watertracker)
-*   **iOS:** [Download on App Store](https://apps.apple.com/us/app/water-tracker-n-reminder/id6759248297)
-
 [![](https://subraatakumar.com/images/appstore-button-download.svg)](https://apps.apple.com/us/app/water-tracker-n-reminder/id6759248297)
+[![](https://subraatakumar.com/images/playstore-button-download.png)](https://play.google.com/store/apps/details?id=com.subraatakumar.watertracker)
 
 ---
 
