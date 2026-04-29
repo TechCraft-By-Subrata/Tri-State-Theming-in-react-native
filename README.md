@@ -40,6 +40,8 @@ If you find it exciting, I invite you to join our community or follow our social
 
 If you find it exciting, I invite you to join our community or follow our social media handles for more such insights.
 
+---
+
 ### Connect With Us
 
 <div align="center">
@@ -52,6 +54,8 @@ If you find it exciting, I invite you to join our community or follow our social
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/subraatakumar/)
 
 </div>
+
+---
 
 ### Who is this for?
 If you are tired of building "playground" projects and want to learn how an **Architect and Tech Lead** structures professional React Native applications, this course is for you. Join the **TechCraft Club** community and start building apps that users—and their devices—will love.
