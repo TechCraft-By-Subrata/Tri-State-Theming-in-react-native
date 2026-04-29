@@ -21,7 +21,7 @@ As promised, we learn from real-world applications, not just demos. Experience t
 </a>
 
 <a href="https://play.google.com/store/apps/details?id=com.subraatakumar.watertracker">
-  <img src="https://subraatakumar.com/images/playstore-button-download.png" width="200" height="auto" alt="Get it on Google Play">
+  <img src="https://subraatakumar.com/images/playstore-button-download.png" width="240" height="auto" alt="Get it on Google Play">
 </a>
 
 ---
