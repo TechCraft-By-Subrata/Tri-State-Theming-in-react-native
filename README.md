@@ -31,5 +31,7 @@ As promised, we learn from real-world applications, not just demos. Experience t
 
 ---
 
+If you find it exciting, I invite you to join our community or follow our social media handles for more such insights.
+
 ### Who is this for?
 If you are tired of building "playground" projects and want to learn how an **Architect and Tech Lead** structures professional React Native applications, this course is for you. Join the **TechCraft Club** community and start building apps that users—and their devices—will love.
